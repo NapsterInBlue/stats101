@@ -33,7 +33,10 @@ Features
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template and egged on by judy2k_ on Twitter, lol
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+.. _judy2k: https://twitter.com/judy2k/status/1047580226245578752
+
+Also, it goes without saying that all of the actual hard work was originally done by the hard-working folks involved with `NumFocus <https://numfocus.org/sponsored-projects?_sft_project_category=python-interface>`_ and `SciPy <https://www.scipy.org/>`_
