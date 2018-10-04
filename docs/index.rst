@@ -1,20 +1,16 @@
-Welcome to stats101's documentation!
-======================================
+stats101
+==========================
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
+    :Caption: Contents
 
-   readme
-   installation
-   usage
-   modules
-   contributing
-   authors
-   history
+    introduction.rst
+    tutorial.rst
+    api_reference.rst
+    developing.rst
 
-Indices and tables
-==================
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+.. include:: ../README.rst
+   :start-line: 3
